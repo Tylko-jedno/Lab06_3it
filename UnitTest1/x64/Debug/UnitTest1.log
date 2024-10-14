@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\FurryFob\source\repos\Lab06_3it\Lab06_3it\Lab06_3it.cpp(8,9): warning C4101: res: неиспользованная локальная переменная
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+C:\Users\FurryFob\source\repos\Lab06_3it\Lab06_3it\Lab06_3it.cpp(20,9): warning C4101: res: неиспользованная локальная переменная
+  (компиляция исходного файла "/UnitTest1.cpp")
+      C:\Users\FurryFob\source\repos\Lab06_3it\Lab06_3it\Lab06_3it.cpp(20,9):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\FurryFob\source\repos\Lab06_3it\Lab06_3it\Lab06_3it.cpp(56,11):
+          выполняется компиляция ссылки на экземпляр шаблон функции "T f2<int>(T *,const T)"
+          with
+          [
+              T=int
+          ]
+  
+     Создается библиотека C:\Users\FurryFob\source\repos\Lab06_3it\x64\Debug\UnitTest1.lib и объект C:\Users\FurryFob\source\repos\Lab06_3it\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\FurryFob\source\repos\Lab06_3it\x64\Debug\UnitTest1.dll

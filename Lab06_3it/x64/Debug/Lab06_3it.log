@@ -1,0 +1,13 @@
+﻿  Lab06_3it.cpp
+C:\Users\FurryFob\source\repos\Lab06_3it\Lab06_3it\Lab06_3it.cpp(8,9): warning C4101: res: неиспользованная локальная переменная
+C:\Users\FurryFob\source\repos\Lab06_3it\Lab06_3it\Lab06_3it.cpp(20,9): warning C4101: res: неиспользованная локальная переменная
+      C:\Users\FurryFob\source\repos\Lab06_3it\Lab06_3it\Lab06_3it.cpp(20,9):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\FurryFob\source\repos\Lab06_3it\Lab06_3it\Lab06_3it.cpp(56,11):
+          выполняется компиляция ссылки на экземпляр шаблон функции "T f2<int>(T *,const T)"
+          with
+          [
+              T=int
+          ]
+  
+  Lab06_3it.vcxproj -> C:\Users\FurryFob\source\repos\Lab06_3it\x64\Debug\Lab06_3it.exe
